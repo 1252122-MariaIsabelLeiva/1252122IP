@@ -1,0 +1,20 @@
+C:\Users\carlo\source\repos\ValidadorDeEstrategiaFinal\bin\Debug\ValidadorDeEstrategiaFinal.exe.config
+C:\Users\carlo\source\repos\ValidadorDeEstrategiaFinal\bin\Debug\ValidadorDeEstrategiaFinal.exe
+C:\Users\carlo\source\repos\ValidadorDeEstrategiaFinal\bin\Debug\ValidadorDeEstrategiaFinal.pdb
+C:\Users\carlo\source\repos\ValidadorDeEstrategiaFinal\obj\Debug\ValidadorDeEstrategiaFinal.csproj.AssemblyReference.cache
+C:\Users\carlo\source\repos\ValidadorDeEstrategiaFinal\obj\Debug\ValidadorDeEstrategiaFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlo\source\repos\ValidadorDeEstrategiaFinal\obj\Debug\ValidadorDeEstrategiaFinal.Properties.Resources.resources
+C:\Users\carlo\source\repos\ValidadorDeEstrategiaFinal\obj\Debug\ValidadorDeEstrategiaFinal.csproj.GenerateResource.cache
+C:\Users\carlo\source\repos\ValidadorDeEstrategiaFinal\obj\Debug\ValidadorDeEstrategiaFinal.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\ValidadorDeEstrategiaFinal\obj\Debug\ValidadorDeEstrategiaFinal.exe
+C:\Users\carlo\source\repos\ValidadorDeEstrategiaFinal\obj\Debug\ValidadorDeEstrategiaFinal.pdb
+C:\Users\carlo\source\repos\ValidadorDeEstrategiaFinal\obj\Debug\ValidadorDeEstrategiaFinal.Carta_Form.resources
+C:\Users\María Isabel\Documents\URL 2022\Ciclo II\Intro a la progra\Lab\ValidadorDeEstrategiaFinal\obj\Debug\ValidadorDeEstrategiaFinal.csproj.AssemblyReference.cache
+C:\Users\María Isabel\Documents\URL 2022\Ciclo II\Intro a la progra\Lab\ValidadorDeEstrategiaFinal\obj\Debug\ValidadorDeEstrategiaFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\María Isabel\Documents\URL 2022\Ciclo II\Intro a la progra\Lab\ValidadorDeEstrategiaFinal\obj\Debug\ValidadorDeEstrategiaFinal.Carta_Form.resources
+C:\Users\María Isabel\Documents\URL 2022\Ciclo II\Intro a la progra\Lab\ValidadorDeEstrategiaFinal\obj\Debug\ValidadorDeEstrategiaFinal.Equipo_Form.resources
+C:\Users\María Isabel\Documents\URL 2022\Ciclo II\Intro a la progra\Lab\ValidadorDeEstrategiaFinal\obj\Debug\ValidadorDeEstrategiaFinal.Properties.Resources.resources
+C:\Users\María Isabel\Documents\URL 2022\Ciclo II\Intro a la progra\Lab\ValidadorDeEstrategiaFinal\obj\Debug\ValidadorDeEstrategiaFinal.csproj.GenerateResource.cache
+C:\Users\María Isabel\Documents\URL 2022\Ciclo II\Intro a la progra\Lab\ValidadorDeEstrategiaFinal\obj\Debug\ValidadorDeEstrategiaFinal.csproj.CoreCompileInputs.cache
+C:\Users\María Isabel\Documents\URL 2022\Ciclo II\Intro a la progra\Lab\ValidadorDeEstrategiaFinal\obj\Debug\ValidadorDeEstrategiaFinal.exe
+C:\Users\María Isabel\Documents\URL 2022\Ciclo II\Intro a la progra\Lab\ValidadorDeEstrategiaFinal\obj\Debug\ValidadorDeEstrategiaFinal.pdb
